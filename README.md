@@ -1,5 +1,12 @@
 # 💫 About Me:
-I’m Kusuma, a technology learner with a strong interest in Data Science, Artificial Intelligence, and Machine Learning.<br>I enjoy working on problems where data, logic, and real-world impact intersect.<br><br>My focus is on building projects that are structured, understandable, and practical, while continuously strengthening my core technical fundamentals.
+I’m Kusuma, a technology enthusiast passionate about Data Science, Artificial Intelligence, and Machine Learning.
+
+I enjoy turning ideas into practical projects where data, logic, and problem-solving come together. I’m continuously strengthening my technical fundamentals, exploring new technologies, and building projects that are structured, meaningful, and easy to understand.
+
+🔹 Interested in Data Science & Machine Learning
+🔹 Exploring AI and intelligent systems
+🔹 Building practical, real-world projects
+🔹 Continuously learning and improving
 
 
 # 💻 Tech Stack:
